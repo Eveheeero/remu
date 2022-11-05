@@ -1,0 +1,6 @@
+[package]
+name = "remu-system-i386"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]

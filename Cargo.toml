@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "remu",
+    "remu-base",
+    "remu-system/remu-system-i386",
+]
